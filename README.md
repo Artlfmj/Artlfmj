@@ -3,8 +3,8 @@
 - I am an experienced JS developper
 - I work on different projects : 
 
-* **[UpdateBot](https://github.com/Artlfmj/Artlfmj/blob/main/README.md#UpdateBot)** 
-  * Discord Bot to track Fortnite changes. Public bot but can be purchased for a personnal use.
+* **[UpdateBot](https://github.com/Artlfmj/Artlfmj/updatebot)** 
+  * Discord Bot that tracks Fortnite things. Biggest project yet.
 
 * **[Shop Bot](https://github.com/Artlfmj/shop-fortnite-bot)**
   * Bot Discord orienté Fortnite, vieille version sur le git , version publique en version bien avancée
