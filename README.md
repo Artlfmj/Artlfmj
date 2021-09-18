@@ -3,7 +3,7 @@
 - I am an experienced JS developper
 - I work on different projects : 
 
-* **[UpdateBot](https://github.com/Artlfmj/Artlfmj/updatebot)** 
+* **[UpdateBot](https://github.com/Artlfmj/updatebot)** 
   * Discord Bot that tracks Fortnite things. Biggest project yet.
 
 * **[Shop Bot](https://github.com/Artlfmj/shop-fortnite-bot)**
