@@ -28,4 +28,9 @@
 
 # Latest Posts on Actu d'ados 
 <!-- BLOG:START -->
+- [Fortnite 19.20 New Crew pack!](https://actu-dados.com/fortnite-1920updateen/)
+- [Fortnite 19.20 – Nouveau Pack du Club](https://actu-dados.com/fortnite-update1920fr/)
+- [Un point sur l’avenir](https://actu-dados.com/avenir-actu-dados/)
+- [Bientôt la fin du chapitre 2?](https://actu-dados.com/fortnite-mise-a-jour-18-40/)
+- [Mise à jour 18.30](https://actu-dados.com/mise-a-jour-18-30/)
 <!-- BLOG:END -->
