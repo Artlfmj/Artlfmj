@@ -1,4 +1,4 @@
-name: Latest stack overflow activity
+name: Latest YouTube videos
 on:
   schedule:
     # Runs every 2 minutes
