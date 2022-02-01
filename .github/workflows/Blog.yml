@@ -12,7 +12,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull in dev.to posts
+      - name: Pull in actu d'ados
         uses: gautamkrishnar/blog-post-workflow@master
         with:
+          comment_tag_name: "BLOG"
           feed_list: "https://actu-dados.com/feed/"
