@@ -1,18 +1,18 @@
-name: Latest blog activity
+name: Latest blog post workflow
 on:
   schedule:
-    # Runs every 2 minutes
-    - cron: '*/2 * * * *'
+    # Runs every 5 minutes
+    - cron: '*/5 * * * *'
   workflow_dispatch:
   
 jobs:
-  update-readme-with-stack-overflow:
-    name: Update this repo's README with latest activity from Blog
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "BLOG"
-          commit_message: "Updated readme with the latest BLOG data"
           feed_list: "https://actu-dados.com/feed/"
