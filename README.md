@@ -25,3 +25,7 @@
 - [Creating a slash command handler | Fortnite API&#39;s tutorial | Episode 3](https://www.youtube.com/watch?v=xX7Ffue6itU)
 - [Adding News | Fortnite API&#39;s tutorial | Episode 2](https://www.youtube.com/watch?v=P5g78yT66jw)
 <!-- YOUTUBE:END -->
+
+# Latest Posts on Actu d'ados 
+<!-- BLOG:START -->
+<!-- BLOG:END -->
