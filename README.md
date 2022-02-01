@@ -16,6 +16,7 @@
 
 ## Stats Github
 <img src="https://github-readme-stats.vercel.app/api?username=Artlfmj&show_icons=true&theme=light&count_private=true" alt="Github Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artlfmj" alt="Github Languages"/>
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
