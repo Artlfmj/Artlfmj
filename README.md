@@ -29,9 +29,9 @@
 
 # Latest Posts on Actu d'ados 
 <!-- BLOG:START -->
+- [Animafac Conference : Interview Quentin Penichou pour PCF](https://actu-dados.com/animafac-conference-interview-quentin-penichou-pour-pcf/)
 - [Animafac Conference : Interview Hector Vesproumis pour LR](https://actu-dados.com/animafac-conference-interview-hector-vesproumis-pour-lr/)
 - [Animafac Conference : Interview Alice Timsit pour EELV](https://actu-dados.com/animafac-conference-interview-alic-timsit-pour-eelv/)
 - [See you soon 👀](https://actu-dados.com/futur-actu-dados/)
 - [Fortnite 19.20 New Crew pack!](https://actu-dados.com/fortnite-1920updateen/)
-- [Fortnite 19.20 – Nouveau Pack du Club](https://actu-dados.com/fortnite-update1920fr/)
 <!-- BLOG:END -->
