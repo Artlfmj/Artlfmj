@@ -20,11 +20,11 @@
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Creating a custom Item Shop Image | Episode 7](https://www.youtube.com/watch?v=i10f2ZiTpjw)
 - [Reddif Live : On avance sur Artlcraft](https://www.youtube.com/watch?v=HOZcjZLlgXc)
 - [How to create a NPM Package in Javascript](https://www.youtube.com/watch?v=yL9qHE5BrrM)
 - [Fortnite APIs Tutorial Episode 6 | Adding item and finishing stats](https://www.youtube.com/watch?v=GJdRCPHa8oo)
 - [Shop &amp; Stats | Fortnite API&#39;s tutorial | Episode 5](https://www.youtube.com/watch?v=lxw-gf5o7cY)
-- [Fixing handler / Aes | Fortnite API&#39;s tutorial | Episode 4](https://www.youtube.com/watch?v=P65bccBKzgE)
 <!-- YOUTUBE:END -->
 
 # Latest Posts on Actu d'ados 
