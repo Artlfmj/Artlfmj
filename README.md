@@ -1,3 +1,5 @@
+[![An image of @artlfmj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/artlfmj)](https://holopin.io/@artlfmj)
+
 <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-Artlfmj%232660-%237289DA?style=flat&logo=discord" alt="discord"/></a>
 ### Welcome to my Github Profile!
 - I am an experienced JS developper
