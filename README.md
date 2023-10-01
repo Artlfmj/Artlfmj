@@ -25,5 +25,5 @@
 - [START CODING NOW!](https://www.youtube.com/watch?v=d91Byw61qGM)
 - [@WaZz se FAIT TUER PAR UN CHEATER](https://www.youtube.com/watch?v=e_AvJa6qVCI)
 - [Creating a custom Item Shop Image | Episode 7](https://www.youtube.com/watch?v=i10f2ZiTpjw)
-- [Reddif Live: On avance sur Artlcraft](https://www.youtube.com/watch?v=HOZcjZLlgXc)
+- [Reddif Live : On avance sur Artlcraft](https://www.youtube.com/watch?v=HOZcjZLlgXc)
 <!-- YOUTUBE:END -->
